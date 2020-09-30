@@ -1,0 +1,25 @@
+{
+  "name": "backend-maraton",
+  "version": "1.0.0",
+  "description": "maraton backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florencia22/BACKEND-MARATON.git"
+  },
+  "author": "florencia gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florencia22/BACKEND-MARATON/issues"
+  },
+  "homepage": "https://github.com/Florencia22/BACKEND-MARATON#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "uniqid": "^5.2.0"
+  }
+}
