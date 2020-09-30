@@ -234,6 +234,10 @@ app.delete("/compras/:id", function (req, res) {
 
 
 
+function newFunction() {
+    return require("express");
+}
+
 //////////////////// Ahora que tengo todo definido y creado, levanto el servicio escuchando peticiones en el puerto
 
 
