@@ -4,7 +4,7 @@
   "description": "maraton backend",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
